@@ -1,0 +1,9 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node tests/smoke.test.js"
+  },
+  "dependencies": { "express": "^4.19.2" }
+}
